@@ -5,4 +5,4 @@ dataset and afterwards the impact of this method was evaluated in the MNIST clas
 
 The Data folder contains the datasets used. This are the MNIST dataset and two different subsets of this same dataset.
 The DR folder contains the code used for the two experiments and the results in csv format.
-The figure folder contains the plots and the code used to generate the plots shown in the project
+The Figuras folder contains the plots and the code used to generate the plots shown in the project
